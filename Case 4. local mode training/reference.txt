@@ -1,0 +1,1 @@
+출처: https://github.com/gonsoomoon-ml/SageMaker-Pipelines-Step-By-Step/blob/main/phase01/1.1.Prepare-Dataset.ipynb
